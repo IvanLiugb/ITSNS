@@ -17,11 +17,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
+
     NSLog(@"第一次修改");
 }
 
 -(void)newBranch{
-    NSLog(@"分支22222");
+    NSLog(@"333333");
 
 }
 
