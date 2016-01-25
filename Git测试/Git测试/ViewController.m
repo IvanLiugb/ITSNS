@@ -19,6 +19,10 @@
     NSLog(@"第一次修改");
 }
 
+-(void)newBranch{
+    NSLog(@"分支");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
