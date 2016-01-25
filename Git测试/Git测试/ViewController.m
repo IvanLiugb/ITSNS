@@ -20,7 +20,7 @@
 }
 
 -(void)newBranch{
-    NSLog(@"分支");
+    NSLog(@"分支22222");
 }
 
 - (void)didReceiveMemoryWarning {
